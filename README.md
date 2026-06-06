@@ -30,7 +30,7 @@ The model consists of the following layers:
 ## 📈 Results
 The model was trained with an 80/20 train-test split. 
 * **Optimization Metric:** Validation Accuracy
-* **Final Test Accuracy:** 98.7%
+* **Final Test Accuracy:** 98%
 ## 💻 How to Run
 
 1. **Clone the repository and install dependencies:**
